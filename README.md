@@ -1,9 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=saeidex&icon=0&color=3)](https://visitcount.itsvg.in)
 
- [![hello-world-new-light.jpg](https://i.postimg.cc/1XySRvR8/hello-world-new-light.jpg)](https://postimg.cc/BL7kMcK3)
-
- <!-- created with (https://ray.so/) -->
-<!--
 ![hello-world](hello-world--light.png#gh-light-mode-only "Hello, World!")
 ![hello-world](hello-world--dark.png#gh-dark-mode-only "Hello, World!")
 -->
